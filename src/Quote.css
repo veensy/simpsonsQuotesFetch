@@ -1,0 +1,9 @@
+.quote p,h1{
+    text-align: center;
+
+}
+.quote img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
